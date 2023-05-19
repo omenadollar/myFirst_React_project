@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+}
+
+body::-webkit-scrollbar {
+    display: none;
+}
+
+.body-cont {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    padding: 1.5rem;
+}
+
+img {
+    width: 100%;
+    height: 300px;
+}
+
+.businesscard {
+    position: relative;
+    width: 300px;
+    border-radius: 2rem;
+    margin-bottom: 2rem;
+}
+
+.card {
+    border-radius: 2rem;
+}
+
+.rating {
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+
+.card-body {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 1rem;
+    background-color: antiquewhite;
+    padding: 4%;
+    font-size: 1.5rem;
+    color: black;
+}
+
+.buy-btn {
+    background-color: green;
+    color: white !important;
+    border-radius: 1.5rem;
+}
+
+.ava {
+    background-color: white;
+    height: fit-content !important;
+    text-align: center;
+    padding: .5rem;
+    font-size: 1.3rem;
+    margin-left: .3rem;
+}
+
+.stat {
+    background-color: antiquewhite;
+    width: 20%;
+    text-align: center;
+    padding: .5rem;
+    font-size: 1.3rem;
+    margin-right: .3rem;
+}

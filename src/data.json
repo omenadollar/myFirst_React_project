@@ -1,0 +1,97 @@
+[{
+        "id": 8,
+        "img": "./images/shoes (42).jpg",
+        "name": "Gucci",
+        "price": "N20,000",
+        "stats": {
+            "rating": 5,
+            "reviewCount": 30
+        },
+        "location": "Lagos Nigeria",
+        "Avalibility": 0
+    },
+    {
+        "id": 1,
+        "img": "./images/cloth (10).jpg",
+        "name": "Gucci",
+        "price": "N20,000",
+        "stats": {
+            "rating": 5,
+            "reviewCount": 30
+        },
+        "location": "Lagos Nigeria",
+        "Avalibility": 0
+    },
+    {
+        "id": 3,
+        "img": "./images/cloth (31).jpg",
+        "name": "Utopia",
+        "price": "N5,000",
+        "stats": {
+            "rating": 4,
+            "reviewCount": 8
+        },
+        "location": "Abia Nigeria",
+        "Avalibility": 0
+    },
+    {
+        "id": 4,
+        "img": "./images/cloth (31).jpg",
+        "name": "Versace",
+        "price": "N40,000",
+        "stats": {
+            "rating": 115,
+            "reviewCount": 50
+        },
+        "location": "Lagos Nigeria",
+        "Avalibility": 5
+    },
+    {
+        "id": 5,
+        "img": "./images/shoes (63).jpg",
+        "name": "Gaddafi",
+        "price": "N15,000",
+        "stats": {
+            "rating": 5.6,
+            "reviewCount": 30
+        },
+        "location": "Anambra Nigeria",
+        "Avalibility": 0
+    },
+    {
+        "id": 2,
+        "img": "./images/cloth (15).jpg",
+        "name": "LOISV",
+        "price": "N10,000",
+        "stats": {
+            "rating": 15,
+            "reviewCount": 100
+        },
+        "location": "Anambra Nigeria",
+        "Avalibility": 10
+    },
+    {
+        "id": 6,
+        "img": "./images/shoes (69).jpg",
+        "name": "Gucci",
+        "price": "N20,000",
+        "stats": {
+            "rating": 8.4,
+            "reviewCount": 100
+        },
+        "location": "Lagos Nigeria",
+        "Avalibility": 3
+    },
+    {
+        "id": 7,
+        "img": "./images/shoes (71).jpg",
+        "name": "VL",
+        "price": "N25,000",
+        "stats": {
+            "rating": 5,
+            "reviewCount": 30
+        },
+        "location": "Enugu Nigeria",
+        "Avalibility": 10
+    }
+]
